@@ -1,4 +1,4 @@
-# Game-pinball-supple-wrist
+# supple-wrist
 This is an Ai generated interactive artwork based on a pinball machine.
 Use the launch button to launch a ball.
 Use the flipper buttons L and R as you would on a pinball machine.
